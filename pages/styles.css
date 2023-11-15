@@ -9,3 +9,11 @@ a:hover {
 	text-decoration: none;
 	color: black;
 }
+
+.container {
+	margin-top: 10px;
+}
+
+.list-group-item {
+	border: none;
+}
