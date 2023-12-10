@@ -13,7 +13,7 @@
 			integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="styles.css" />
+		<link rel="stylesheet" href="../../public/styles.css" />
 		<link
 			rel="stylesheet"
 			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
@@ -26,7 +26,7 @@
 				<div class="row align-items-center justify-content-between">
 					<div class="col-2">
 						<h1>
-							<a href="inbox.html">Studmail</a>
+							<a href="inbox.blade.php">Studmail</a>
 						</h1>
 					</div>
 					<div class="col-8">
@@ -44,7 +44,7 @@
 						</div>
 					</div>
 					<div class="col-2">
-						<a class="icon-link" href="account.html">
+						<a class="icon-link" href="account.blade.php">
 							<i class="bi bi-person-circle"></i>
 							Your Account
 						</a>

@@ -13,7 +13,7 @@
 			integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="styles.css" />
+		<link rel="stylesheet" href="../../public/styles.css" />
 		<link
 			rel="stylesheet"
 			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
@@ -44,7 +44,7 @@
 						</div>
 					</div>
 					<div class="col-2">
-						<a class="icon-link" href="account.html">
+						<a class="icon-link" href="account.blade.php">
 							<i class="bi bi-person-circle"></i>
 							Your Account
 						</a>
@@ -54,7 +54,7 @@
 			<div class="container my-4">
 				<div class="row align-items-start justify-content-between">
 					<div class="col-2">
-						<a class="btn btn-primary m-2" href="write.html" role="button"
+						<a class="btn btn-primary m-2" href="write.blade.php" role="button"
 							><i class="bi bi-pen"></i>Write</a
 						>
 						<div class="list-group">
@@ -100,10 +100,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>
@@ -116,10 +116,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>
@@ -132,10 +132,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>
@@ -148,10 +148,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>
@@ -164,10 +164,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>
@@ -180,10 +180,10 @@
 						<div
 							class="list-group list-group-horizontal justify-content-between"
 						>
-							<a class="list-group-item" href="view.html"
+							<a class="list-group-item" href="view.blade.php"
 								>maxmusterman@email.com</a
 							>
-							<a href="view.html" class="list-group-item">email caption</a>
+							<a href="view.blade.php" class="list-group-item">email caption</a>
 							<div class="list-group-item">
 								<button class="btn btn-primary">
 									<i class="bi bi-archive"></i>

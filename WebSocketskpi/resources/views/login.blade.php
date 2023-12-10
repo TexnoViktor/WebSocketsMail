@@ -54,7 +54,7 @@
 									/>
 									<div class="text-center mt-3">
 										<button class="btn btn-primary">Login</button>
-										<a href="register.html" class="nav-link"
+										<a href="register.blade.php" class="nav-link"
 											>Don't have an account?</a
 										>
 									</div>
